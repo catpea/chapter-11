@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [The Golden Books](docs/poem-1624.mp3)
 - [Are Programmers Scientists Or Just Really Weird Wizards?](docs/poem-1623.mp3)
 - [The Gym Problem; Or, The Lift Heavy For Big Muscle Myth](docs/poem-1622.mp3)
 - [Svelte, Vue, React, Angular Considered Evil: Just Loop Over Signals With A Signal Loop Web Component](docs/poem-1621.mp3)
