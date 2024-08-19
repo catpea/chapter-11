@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Codename Mephistopheles; Or, How Computer Programming Changes Everything](docs/poem-1631.mp3)
 - [How I Completely Ruined My Quest To Become Thin And Skinny](docs/poem-1630.mp3)
 - [All Too Human](docs/poem-1629.mp3)
 - [Bad Grades; Or, You Were Never Dumb](docs/poem-1628.mp3)
