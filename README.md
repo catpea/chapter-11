@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Gym Advice: Lifting Heavy Is A Mistake That Can Only Slow You Down](docs/poem-1633.mp3)
 - [The Seagull Diet; Or, What Really Happened On The Day I Learned To Love The Michigan Seagull](docs/poem-1632.mp3)
 - [Codename Mephistopheles; Or, How Computer Programming Changes Everything](docs/poem-1631.mp3)
 - [How I Completely Ruined My Quest To Become Thin And Skinny](docs/poem-1630.mp3)
