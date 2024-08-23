@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Fitness Above All; Before You Take Care Of Others, You Must Take Care Of Yourself](docs/poem-1635.mp3)
 - [Don't Lift Heavy At The Gym: Scientific Evidence For High-Intensity, Multi-Hour Training With Low Weights](docs/poem-1634.mp3)
 - [Gym Advice: Lifting Heavy Is A Mistake That Can Only Slow You Down](docs/poem-1633.mp3)
 - [The Seagull Diet; Or, What Really Happened On The Day I Learned To Love The Michigan Seagull](docs/poem-1632.mp3)
