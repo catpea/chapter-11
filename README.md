@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Listen To Philosophy Books And Practice Programming](docs/poem-1639.mp3)
 - [So You Have Learned Programming... What Do?](docs/poem-1638.mp3)
 - [Learn Programming First! Don’t Let Ghouls And Ineffective Education Trick You Out Of Your Future](docs/poem-1637.mp3)
 - [Gentile Dedys](docs/poem-1636.mp3)
