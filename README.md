@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [When Control Takes A Toll – A Back To School Special](docs/poem-1641.mp3)
 - [Fitness Is Sacred, Fitness Is Life](docs/poem-1640.mp3)
 - [Listen To Philosophy Books And Practice Programming](docs/poem-1639.mp3)
 - [So You Have Learned Programming... What Do?](docs/poem-1638.mp3)
