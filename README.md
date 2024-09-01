@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Bushwhacking In America](docs/poem-1644.mp3)
 - [The Future Is Always Bright, Once You Learn Programming](docs/poem-1643.mp3)
 - [Bodybuilding Explained Freaky Fast](docs/poem-1642.mp3)
 - [When Control Takes A Toll – A Back To School Special](docs/poem-1641.mp3)
