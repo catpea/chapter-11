@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [You Are A Creature Of The Stars](docs/poem-1646.mp3)
 - [Programmers! Don't Just Use Plain Variables, Oh No!](docs/poem-1645.mp3)
 - [Bushwhacking In America](docs/poem-1644.mp3)
 - [The Future Is Always Bright, Once You Learn Programming](docs/poem-1643.mp3)
