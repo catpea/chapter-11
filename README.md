@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Integrate Your Future; Or, Stand Up For Effective Education](docs/poem-1648.mp3)
 - [Creators, Navigators, And Saving The World](docs/poem-1647.mp3)
 - [You Are A Creature Of The Stars](docs/poem-1646.mp3)
 - [Programmers! Don't Just Use Plain Variables, Oh No!](docs/poem-1645.mp3)
