@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Learning Programming Is Easy, You Just Have To Put Your Foot In The Door](docs/poem-1649.mp3)
 - [Integrate Your Future; Or, Stand Up For Effective Education](docs/poem-1648.mp3)
 - [Creators, Navigators, And Saving The World](docs/poem-1647.mp3)
 - [You Are A Creature Of The Stars](docs/poem-1646.mp3)
