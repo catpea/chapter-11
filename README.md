@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Teachers, Stop Pretending To Teach](docs/poem-1652.mp3)
 - [It Is Neither About The Journey Or Its Heights; It Is About Who You Become During Your Journey](docs/poem-1651.mp3)
 - [Learn For Real; Or, Don't Get Tricked, Ineffective Education Is A Shortcut For Liars](docs/poem-1650.mp3)
 - [Learning Programming Is Easy, You Just Have To Put Your Foot In The Door](docs/poem-1649.mp3)
