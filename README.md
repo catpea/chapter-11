@@ -9,9 +9,10 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
-- [On Cracking The Body Building Code](docs/poem-1658.mp3)
+- [When To Dress For Halloween? September. Freaking. First!](docs/poem-1659.mp3)
+- [On Cracking The Bodybuilding Code](docs/poem-1658.mp3)
 - [Get To Know Your Philosophers](docs/poem-1657.mp3)
-- [Say "No" to Balanced Education: It is A Flimsy Concept That Will Jeopardize Your Future](docs/poem-1656.mp3)
+- [Say "No" To Balanced Education: It is A Flimsy Concept That Will Jeopardize Your Future](docs/poem-1656.mp3)
 - [Bodybuilding For Young Ladies](docs/poem-1655.mp3)
 - [Super Nerd; Or, A Fistful Of Code And The Age Of Enlightenment](docs/poem-1654.mp3)
 - [Programming Teaches Like A Mother](docs/poem-1653.mp3)
