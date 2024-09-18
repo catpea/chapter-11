@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [The Mouse Whisperer: On Dragging A Cat With A Mouse; Or The DeltaX And Why Of Programming A Mouse](docs/poem-1661.mp3)
 - [25 Million Years Ago We Lost Our Tails; Today, We Have Technology To Rebuild Them](docs/poem-1660.mp3)
 - [When To Dress For Halloween? September. Freaking. First!](docs/poem-1659.mp3)
 - [On Cracking The Bodybuilding Code](docs/poem-1658.mp3)
