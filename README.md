@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Wake Up! Stop Thinking You Are Not Smart - It Is A Trick!](docs/poem-1665.mp3)
 - [Accept The Responsibility For Your Own Unique Self Education](docs/poem-1664.mp3)
 - [Close The Gap: Repairing Your Body And Becoming Fit Is Fast And Painless](docs/poem-1663.mp3)
 - [Obesity As A Launchpad To Greatness – Remodeling Your Kitchen, Power Walking, And Hiking](docs/poem-1662.mp3)
