@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [One Way Or The Other: A Tale Of Two Tails And A Call To Greatness](docs/poem-1666.mp3)
 - [Wake Up! Stop Thinking You Are Not Smart - It Is A Trick!](docs/poem-1665.mp3)
 - [Accept The Responsibility For Your Own Unique Self Education](docs/poem-1664.mp3)
 - [Close The Gap: Repairing Your Body And Becoming Fit Is Fast And Painless](docs/poem-1663.mp3)
