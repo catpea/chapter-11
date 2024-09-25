@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Starry McStarshipface, Astrobsidian, Super Intelligence, And A Desperate Call For New Philosophers](docs/poem-1668.mp3)
 - [The Supervisor Programming Model](docs/poem-1667.mp3)
 - [One Way Or The Other: A Tale Of Two Tails And A Call To Greatness](docs/poem-1666.mp3)
 - [Wake Up! Stop Thinking You Are Not Smart - It Is A Trick!](docs/poem-1665.mp3)
