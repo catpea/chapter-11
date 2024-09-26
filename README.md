@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [The Weighted Vest; Yes! But Get The Right Materials](docs/poem-1669.mp3)
 - [Starry McStarshipface, Astrobsidian, Super Intelligence, And A Desperate Call For New Philosophers](docs/poem-1668.mp3)
 - [The Supervisor Programming Model](docs/poem-1667.mp3)
 - [One Way Or The Other: A Tale Of Two Tails And A Call To Greatness](docs/poem-1666.mp3)
