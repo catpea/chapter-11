@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Programming Is The Very Least You Should Learn In High School](docs/poem-1674.mp3)
 - [Bodybuilding For Shy Girls](docs/poem-1673.mp3)
 - [Door Key Meow](docs/poem-1672.mp3)
 - [Sooner Or Later You Will Have To Spend A Bit Of Time With Artificial Intelligence](docs/poem-1671.mp3)
