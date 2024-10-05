@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Lol! How You Just Became A Powerful Programmer](docs/poem-1678.mp3)
 - [Upgrade Your Fitness By Replacing Rest With Light Dumbbells](docs/poem-1677.mp3)
 - [Sustainable Bodybuilding: Don’t Lift Heavy, And Lift For Life](docs/poem-1676.mp3)
 - [A Good Starter Project For Learning JavaScript, Is A Primitive WikiWiki – A Tiny High Level Overview](docs/poem-1675.mp3)
