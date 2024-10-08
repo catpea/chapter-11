@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Costume Suggestion: Super Simple Instructions For A Sturdy Gym Friendly Tail](docs/poem-1681.mp3)
 - [Your Sacred Journeys](docs/poem-1680.mp3)
 - [Individuality And The End Of The Dark Ages](docs/poem-1679.mp3)
 - [Lol! How You Just Became A Powerful Programmer](docs/poem-1678.mp3)
