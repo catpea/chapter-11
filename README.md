@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Does A Tail Help?](docs/poem-1683.mp3)
 - [Easy Bodybuilding For The Sophisticated Lady](docs/poem-1682.mp3)
 - [Costume Suggestion: Super Simple Instructions For A Sturdy Gym Friendly Tail](docs/poem-1681.mp3)
 - [Your Sacred Journeys](docs/poem-1680.mp3)
