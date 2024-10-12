@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Of The Bodybuilder Curse And Jogger Wisdom; Or, Bodybuilding Is A Weighted Endurance Sport](docs/poem-1685.mp3)
 - [Once In A Jogger](docs/poem-1684.mp3)
 - [Does A Tail Help?](docs/poem-1683.mp3)
 - [Easy Bodybuilding For The Sophisticated Lady](docs/poem-1682.mp3)
