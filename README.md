@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Wise Fitness And Avoiding Injury](docs/poem-1688.mp3)
 - [Are Your Programmers Even Programming?](docs/poem-1687.mp3)
 - [A Letter From 2024](docs/poem-1686.mp3)
 - [Of The Bodybuilder Curse And Jogger Wisdom; Or, Bodybuilding Is A Weighted Endurance Sport](docs/poem-1685.mp3)
