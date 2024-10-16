@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [The Wise AI; A Speculative Little Journey](docs/poem-1689.mp3)
 - [Wise Fitness And Avoiding Injury](docs/poem-1688.mp3)
 - [Are Your Programmers Even Programming?](docs/poem-1687.mp3)
 - [A Letter From 2024](docs/poem-1686.mp3)
