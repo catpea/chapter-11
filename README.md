@@ -9,7 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
-- [The Strange Art Of Sneaking UP On Yourself](docs/poem-1691.mp3)
+- [The Strange Art Of Sneaking Up On Yourself](docs/poem-1691.mp3)
 - [If You Are Not A Spring Chicken Anymore, Or Just Can’t Easily Fit Through The Car Door...](docs/poem-1690.mp3)
 - [The Wise AI; A Speculative Little Journey](docs/poem-1689.mp3)
 - [Wise Fitness And Avoiding Injury](docs/poem-1688.mp3)
