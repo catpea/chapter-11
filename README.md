@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [The End Of Obesity: No, You Didn’t Pick The Appalachian Trail, But It Sure As Sunshine Picked You](docs/poem-1693.mp3)
 - [An Invitation To A Great Quest, With A Preface By Abraham Lincoln](docs/poem-1692.mp3)
 - [The Strange Art Of Sneaking Up On Yourself](docs/poem-1691.mp3)
 - [If You Are Not A Spring Chicken Anymore, Or Just Can’t Easily Fit Through The Car Door...](docs/poem-1690.mp3)
