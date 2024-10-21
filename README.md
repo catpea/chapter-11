@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [If You Want To Be Fit Don't Sit; Or, Don’t Just Work Out, Try To Figure The Gym Out](docs/poem-1694.mp3)
 - [The End Of Obesity: No, You Didn’t Pick The Appalachian Trail, But It Sure As Sunshine Picked You](docs/poem-1693.mp3)
 - [An Invitation To A Great Quest, With A Preface By Abraham Lincoln](docs/poem-1692.mp3)
 - [The Strange Art Of Sneaking Up On Yourself](docs/poem-1691.mp3)
