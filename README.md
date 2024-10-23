@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [What If Education Is Just Not Your Thing, And How Not To Wail On The Appalachian Trail](docs/poem-1696.mp3)
 - [One Two And One Anew: It Won’t Take Much For AI To Think And Such](docs/poem-1695.mp3)
 - [If You Want To Be Fit Don't Sit; Or, Don’t Just Work Out, Try To Figure The Gym Out](docs/poem-1694.mp3)
 - [The End Of Obesity: No, You Didn’t Pick The Appalachian Trail, But It Sure As Sunshine Picked You](docs/poem-1693.mp3)
