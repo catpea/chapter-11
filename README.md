@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Sic Semper Tyrannis, Learning, Learning From The Ample Hands Of Artificial Intelligence](docs/poem-1698.mp3)
 - [How To Reliably Fluff Up Your Tail For Halloween](docs/poem-1697.mp3)
 - [What If Education Is Just Not Your Thing, And How Not To Wail On The Appalachian Trail](docs/poem-1696.mp3)
 - [One Two And One Anew: It Won’t Take Much For AI To Think And Such](docs/poem-1695.mp3)
