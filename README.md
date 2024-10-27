@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [This Halloween Become A Real Wizard](docs/poem-1700.mp3)
 - [A Gigantic Thorn In The Universe's Ass](docs/poem-1699.mp3)
 - [Sic Semper Tyrannis, Learning, Learning From The Ample Hands Of Artificial Intelligence](docs/poem-1698.mp3)
 - [How To Reliably Fluff Up Your Tail For Halloween](docs/poem-1697.mp3)
