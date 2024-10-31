@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Automatic AI Magic; Or, How I Am Experimenting With AI Today](docs/poem-1704.mp3)
 - [A Tiny Halloween Discovery For Dance Instructors](docs/poem-1703.mp3)
 - [Are People Who Don't Dress For Halloween Just Pretending To Be Adults?](docs/poem-1702.mp3)
 - [The New Halloween, It Is Only A Little Weird; Or, Make Every Day A Cheerful Holiday](docs/poem-1701.mp3)
