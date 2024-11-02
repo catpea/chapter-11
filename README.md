@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [The Unfortunate And Misleading Myth Of Sets And Reps](docs/poem-1706.mp3)
 - [Artificial Intelligence Helps](docs/poem-1705.mp3)
 - [Automatic AI Magic; Or, How I Am Experimenting With AI Today](docs/poem-1704.mp3)
 - [A Tiny Halloween Discovery For Dance Instructors](docs/poem-1703.mp3)
