@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Is Programming Fun?](docs/poem-1708.mp3)
 - [Use AI To Learn On Your Own, It Is Dangerous To Just Pretend To Learn In School](docs/poem-1707.mp3)
 - [The Unfortunate And Misleading Myth Of Sets And Reps](docs/poem-1706.mp3)
 - [Artificial Intelligence Helps](docs/poem-1705.mp3)
