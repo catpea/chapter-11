@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [The Hoist Must Make You Moist - A Message From Abraham Lincoln](docs/poem-1710.mp3)
 - [Programming Late; Or, Adventure And Invention](docs/poem-1709.mp3)
 - [Is Programming Fun?](docs/poem-1708.mp3)
 - [Use AI To Learn On Your Own, It Is Dangerous To Just Pretend To Learn In School](docs/poem-1707.mp3)
