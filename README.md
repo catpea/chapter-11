@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [The Fancy Beast Workout: Dumbbells, Non-Stop Dance, Focus, Trance, Dried Fruit, And Intensity](docs/poem-1712.mp3)
 - [The True Gift](docs/poem-1711.mp3)
 - [The Hoist Must Make You Moist - A Message From Abraham Lincoln](docs/poem-1710.mp3)
 - [Programming Late; Or, Adventure And Invention](docs/poem-1709.mp3)
