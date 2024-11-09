@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [How I Successfully Used AI To Learn Important Programming Embarrassments](docs/poem-1713.mp3)
 - [The Fancy Beast Workout: Dumbbells, Non-Stop Dance, Focus, Trance, Dried Fruit, And Intensity](docs/poem-1712.mp3)
 - [The True Gift](docs/poem-1711.mp3)
 - [The Hoist Must Make You Moist - A Message From Abraham Lincoln](docs/poem-1710.mp3)
