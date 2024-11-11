@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Is Philosophy Still A Thing?](docs/poem-1715.mp3)
 - [Visual Programming === Future Of Programming](docs/poem-1714.mp3)
 - [How I Successfully Used AI To Learn Important Programming Embarrassments](docs/poem-1713.mp3)
 - [The Fancy Beast Workout: Dumbbells, Non-Stop Dance, Focus, Trance, Dried Fruit, And Intensity](docs/poem-1712.mp3)
