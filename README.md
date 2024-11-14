@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [My Dear Children - A Message From Abraham Lincoln](docs/poem-1718.mp3)
 - [Working Out Is Very Bad!](docs/poem-1717.mp3)
 - [Cat Calque; Or, The Case Of A Missing Idiom](docs/poem-1716.mp3)
 - [Is Philosophy Still A Thing?](docs/poem-1715.mp3)
