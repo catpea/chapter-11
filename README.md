@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [A Cheerful Little Legacy; Or, Growing Up Is Slow But Not That Hard, You Just Have To Keep At It](docs/poem-1721.mp3)
 - [Bodybuilding For Golden Ladies](docs/poem-1720.mp3)
 - [Fitness Advice For Teenage Girls: Don't Get Too Muscular, Maybe?](docs/poem-1719.mp3)
 - [My Dear Children - A Message From Abraham Lincoln](docs/poem-1718.mp3)
