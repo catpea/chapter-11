@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Children of the Future, Hear Me! - A Message From Friedrich Nietzsche](docs/poem-1725.mp3)
 - [JavaScript Gods](docs/poem-1724.mp3)
 - [An Eerie Little Poem About Two Eerie Places And A Strange Porcupine](docs/poem-1723.mp3)
 - [Rules and Shenanigans Of Little Adventures](docs/poem-1722.mp3)
