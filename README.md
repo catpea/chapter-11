@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [My Name is Aurelia Sapiens And This Is The Twistin’ Tongue-twister](docs/poem-1727.mp3)
 - [Horking - The New American Pastime](docs/poem-1726.mp3)
 - [Children of the Future, Hear Me! - A Message From Friedrich Nietzsche](docs/poem-1725.mp3)
 - [JavaScript Gods](docs/poem-1724.mp3)
