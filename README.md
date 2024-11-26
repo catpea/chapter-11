@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Thinking About Learning English? Think Again!](docs/poem-1730.mp3)
 - [Protect Your Mind - In The Voice of Walt Whitman](docs/poem-1729.mp3)
 - [The Last Dark Age](docs/poem-1728.mp3)
 - [My Name is Aurelia Sapiens And This Is The Twistin’ Tongue-twister](docs/poem-1727.mp3)
